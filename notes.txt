@@ -4,7 +4,7 @@ This project contains CSV and text files created during Lecture 1.
 
 I am using Git to track changes in this project.
 
-Name: Siddhi Vinayak
-Course: Software Lab
+Name: Siddhi Vinayak 
+Course: Software Lab - Main Version
 
 This change was made on the main branch.
