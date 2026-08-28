@@ -6,5 +6,7 @@ I am using Git to track changes in this project.
 
 Name: Siddhi Vinayak 
 Course: Software Lab - Main Version
+Name: Siddhi Vinayak
+Course: Software Lab - New Branch Version
 
 This change was made on the main branch.
