@@ -1,0 +1,8 @@
+Software Lab - Lecture 1
+
+This project contains CSV and text files created during Lecture 1.
+
+I am using Git to track changes in this project.
+
+Name: Siddhi Vinayak
+Course: Software Lab
